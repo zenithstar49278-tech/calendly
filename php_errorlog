@@ -1,0 +1,48 @@
+[05-Sep-2025 14:51:44 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php:4
+Stack trace:
+#0 /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php(4): mysqli_real_escape_string(NULL, 'test ')
+#1 {main}
+  thrown in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 4
+[05-Sep-2025 14:54:10 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 14:54:10 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 14:54:10 UTC] PHP Warning:  Undefined variable $conn in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 8
+[05-Sep-2025 14:54:10 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php:8
+Stack trace:
+#0 /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php(8): mysqli_real_escape_string(NULL, 'test ')
+#1 {main}
+  thrown in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 8
+[05-Sep-2025 14:54:45 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 14:54:45 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 14:54:45 UTC] PHP Warning:  Undefined variable $conn in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 8
+[05-Sep-2025 14:54:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php:8
+Stack trace:
+#0 /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php(8): mysqli_real_escape_string(NULL, 'test ')
+#1 {main}
+  thrown in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 8
+[05-Sep-2025 14:55:52 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 14:55:52 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 14:58:30 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 14:58:30 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 14:59:13 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 14:59:13 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 14:59:17 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 14:59:17 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 15:08:30 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 15:08:30 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 15:09:29 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 15:09:29 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 15:24:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/login.php:5
+Stack trace:
+#0 /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/login.php(5): mysqli_real_escape_string(NULL, 'e@gmail.com')
+#1 {main}
+  thrown in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/login.php on line 5
+[05-Sep-2025 15:24:45 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 15:24:45 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 16:10:03 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[05-Sep-2025 16:10:03 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[06-Sep-2025 13:55:16 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[06-Sep-2025 13:55:16 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[07-Sep-2025 08:35:59 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[07-Sep-2025 08:35:59 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[08-Sep-2025 13:21:53 UTC] PHP Warning:  include(db.php): Failed to open stream: No such file or directory in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
+[08-Sep-2025 13:21:53 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.rehanacademy.net/public_html/calendly/signup.php on line 6
